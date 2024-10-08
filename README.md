@@ -1,0 +1,1 @@
+# plugins-set-all-first-images-as-featured
